@@ -20,4 +20,20 @@ body {
   
   nav a:hover {
     text-decoration:
-  
+  body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Times New Roman', serif;
+  color: #444;
+}
+
+a {
+  color: #333;
+}
+
+a:hover {
+  color: #888;
+}
